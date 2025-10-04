@@ -1,0 +1,262 @@
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.frmHome.resources
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.UCInventory.resources
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\bin\Debug\Supermarket.exe.config
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\bin\Debug\Supermarket.exe
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\bin\Debug\Supermarket.pdb
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.exe
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.pdb
+F:\HCMUTE 2nd Semester\Windows Programming\Supermarket\obj\Debug\Supermarket.UCImportOrders.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\bin\Debug\Supermarket.exe.config
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\bin\Debug\Supermarket.exe
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\bin\Debug\Supermarket.pdb
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.frmHome.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.UCEmployee.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.UCImportOrders.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.UCInventory.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.UCSalesOrders.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.UCSupplier.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.exe
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket\obj\Debug\Supermarket.pdb
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Supermarket.exe.config
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Supermarket.exe
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Supermarket.pdb
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.frmHome.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.Properties.Resources.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UCEmployee.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UCSupplier.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.csproj.GenerateResource.cache
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.exe
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.pdb
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UCKho.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UCNhapHang.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UCInvoice.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UCStatistics.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.exe.config
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.LoginForm.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermarket.UI.UCMenu.resources
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\obj\Debug\Supermar.2B1DEBD3.Up2Date
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\EnvDTE.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\stdole.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\HCMUTE 2nd Semester\Windows Programming\FINAL\Supermarket - ADO\bin\Debug\rptCostAndProfit.rdlc
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.frmHome.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.LoginForm.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.Properties.Resources.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UI.UCMenu.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UCStatistics.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UCEmployee.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UCNhapHang.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UCKho.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UCInvoice.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.UCSupplier.resources
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.csproj.GenerateResource.cache
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.exe
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermarket.pdb
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Supermarket.exe.config
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Supermarket.exe
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Supermarket.pdb
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\EntityFramework.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\EnvDTE.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\stdole.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\EntityFramework.xml
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - ADO\Supermarket - ADO\obj\Debug\Supermar.2B1DEBD3.Up2Date
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\dsCostProfit.cs
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\dsCostProfit.Designer.cs
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\dsCostProfit.xsc
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\dsCostProfit.xsd
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\dsCostProfit.xss
+D:\Supermarket - ADO\Supermarket - ADO\bin\Debug\rptCostAndProfit.rdlc
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\dsCostProfit.cs
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\dsCostProfit.Designer.cs
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\dsCostProfit.xsc
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\dsCostProfit.xsd
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\dsCostProfit.xss
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\rptCostAndProfit.rdlc
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Supermarket.exe.config
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Supermarket.exe
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Supermarket.pdb
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\EntityFramework.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\EnvDTE.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\stdole.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\EntityFramework.xml
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.frmHome.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.LoginForm.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.Properties.Resources.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UI.UCMenu.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UCStatistics.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UCEmployee.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UCNhapHang.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UCKho.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UCInvoice.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.UCSupplier.resources
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.csproj.GenerateResource.cache
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermar.2B1DEBD3.Up2Date
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.exe
+D:\Supermarket - EF\Supermarket - EF\obj\Debug\Supermarket.pdb

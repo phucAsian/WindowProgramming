@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SupermarketDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Product_Category" FromRole="Category" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FullName" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Salary" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="HireDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ImportOrder">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="SupplierId" Type="Int32" Nullable="false" />
+    <Property Name="ImportPrice" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="TotalAmount" Type="Decimal" Precision="23" Scale="2" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IssueDate" Type="DateTime" Precision="7" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_ImportOrder_Product" FromRole="ImportOrder" ToRole="Product" />
+    <NavigationProperty Name="Supplier" Relationship="Self.FK_ImportOrder_Supplier" FromRole="ImportOrder" ToRole="Supplier" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="SupplierId" Type="Int32" />
+    <Property Name="CostPrice" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="SellPrice" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="ExpiryDate" Type="DateTime" Precision="0" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="Self.FK_Product_Category" FromRole="Product" ToRole="Category" />
+    <NavigationProperty Name="ImportOrders" Relationship="Self.FK_ImportOrder_Product" FromRole="Product" ToRole="ImportOrder" />
+    <NavigationProperty Name="Supplier" Relationship="Self.FK_Product_Supplier" FromRole="Product" ToRole="Supplier" />
+    <NavigationProperty Name="SalesOrders" Relationship="Self.FK_SalesOrder_Product" FromRole="Product" ToRole="SalesOrder" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK_User_Role" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="SalesOrder">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="SellPrice" Type="Decimal" Precision="12" Scale="2" Nullable="false" />
+    <Property Name="TotalAmount" Type="Decimal" Precision="23" Scale="2" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IssueDate" Type="DateTime" Precision="7" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_SalesOrder_Product" FromRole="SalesOrder" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="SupplierId" />
+    </Key>
+    <Property Name="SupplierId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SupplierName" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="ImportOrders" Relationship="Self.FK_ImportOrder_Supplier" FromRole="Supplier" ToRole="ImportOrder" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Product_Supplier" FromRole="Supplier" ToRole="Product" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="RoleId" Type="Int32" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Role" Relationship="Self.FK_User_Role" FromRole="User" ToRole="Role" />
+  </EntityType>
+  <Association Name="FK_Product_Category">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ImportOrder_Product">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ImportOrder" Type="Self.ImportOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="ImportOrder">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ImportOrder_Supplier">
+    <End Role="Supplier" Type="Self.Supplier" Multiplicity="1" />
+    <End Role="ImportOrder" Type="Self.ImportOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="SupplierId" />
+      </Principal>
+      <Dependent Role="ImportOrder">
+        <PropertyRef Name="SupplierId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_Supplier">
+    <End Role="Supplier" Type="Self.Supplier" Multiplicity="0..1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="SupplierId" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="SupplierId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SalesOrder_Product">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="SalesOrder" Type="Self.SalesOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductId" />
+      </Principal>
+      <Dependent Role="SalesOrder">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SupermarketDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="ImportOrders" EntityType="Self.ImportOrder" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="SalesOrders" EntityType="Self.SalesOrder" />
+    <EntitySet Name="Suppliers" EntityType="Self.Supplier" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK_Product_Category" Association="Self.FK_Product_Category">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ImportOrder_Product" Association="Self.FK_ImportOrder_Product">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="ImportOrder" EntitySet="ImportOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ImportOrder_Supplier" Association="Self.FK_ImportOrder_Supplier">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="ImportOrder" EntitySet="ImportOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_Supplier" Association="Self.FK_Product_Supplier">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SalesOrder_Product" Association="Self.FK_SalesOrder_Product">
+      <End Role="Product" EntitySet="Products" />
+      <End Role="SalesOrder" EntitySet="SalesOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

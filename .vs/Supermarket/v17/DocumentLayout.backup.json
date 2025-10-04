@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Supermarket - EF\\Supermarket - EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|d:\\supermarket - ef\\supermarket - ef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\bs_layer\\blnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:bs_layer\\blnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\bs_layer\\blsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:bs_layer\\blsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\bs_layer\\blsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:bs_layer\\blsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\bs_layer\\blthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:bs_layer\\blthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\bs_layer\\blnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:bs_layer\\blnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\bs_layer\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:bs_layer\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucimportorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucimportorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\rptcostandprofit.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:rptcostandprofit.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\dscostprofit.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:dscostprofit.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\dscostprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:dscostprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\dscostprofit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:dscostprofit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\dscostprofit.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:dscostprofit.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\dscostprofit.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:dscostprofit.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucstatistics .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucstatistics .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucstatistics .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucstatistics .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\db_layer\\supermarketdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:db_layer\\supermarketdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucimportorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucimportorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucsalesorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucsalesorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|D:\\Supermarket - EF\\Supermarket - EF\\ui\\ucsalesorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A88C0E8-1588-4B49-BB40-E0363CF5DEB1}|Supermarket.csproj|solutionrelative:ui\\ucsalesorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 816,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:36:49.389Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UCInventory.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCInventory.cs",
+              "RelativeDocumentMoniker": "UI\\UCInventory.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCInventory.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCInventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:43:17.752Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCEmployee.cs",
+              "RelativeDocumentMoniker": "UI\\UCEmployee.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCEmployee.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:43:59.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UCSupplier.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCSupplier.cs",
+              "RelativeDocumentMoniker": "UI\\UCSupplier.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCSupplier.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:43:45.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UCImportOrders.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCImportOrders.cs",
+              "RelativeDocumentMoniker": "UI\\UCImportOrders.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCImportOrders.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCImportOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:56:07.063Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UCSalesOrders.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCSalesOrders.cs",
+              "RelativeDocumentMoniker": "UI\\UCSalesOrders.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCSalesOrders.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCSalesOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:46:24.172Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:10:41.375Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UCStatistics .cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCStatistics .cs",
+              "RelativeDocumentMoniker": "UI\\UCStatistics .cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCStatistics .cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCStatistics .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:12:57.642Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UCMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCMenu.cs",
+              "RelativeDocumentMoniker": "UI\\UCMenu.cs",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\UI\\UCMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:13:37.028Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCEmployee.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCEmployee.cs",
+              "RelativeDocumentMoniker": "UI\\UCEmployee.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCEmployee.cs",
+              "RelativeToolTip": "UI\\UCEmployee.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:45:23.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLNhanVien.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLNhanVien.cs",
+              "RelativeDocumentMoniker": "BS_layer\\BLNhanVien.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLNhanVien.cs",
+              "RelativeToolTip": "BS_layer\\BLNhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:45:47.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:45:06.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BLNhapHang.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLNhapHang.cs",
+              "RelativeDocumentMoniker": "BS_layer\\BLNhapHang.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLNhapHang.cs",
+              "RelativeToolTip": "BS_layer\\BLNhapHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:03:44.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLSanPham.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLSanPham.cs",
+              "RelativeDocumentMoniker": "BS_layer\\BLSanPham.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLSanPham.cs",
+              "RelativeToolTip": "BS_layer\\BLSanPham.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:22:44.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BLThongKe.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLThongKe.cs",
+              "RelativeDocumentMoniker": "BS_layer\\BLThongKe.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLThongKe.cs",
+              "RelativeToolTip": "BS_layer\\BLThongKe.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:50:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UCSupplier.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCSupplier.cs",
+              "RelativeDocumentMoniker": "UI\\UCSupplier.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCSupplier.cs",
+              "RelativeToolTip": "UI\\UCSupplier.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:11:32.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:48:00.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAIAwwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:48:55.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLSupplier.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLSupplier.cs",
+              "RelativeDocumentMoniker": "BS_layer\\BLSupplier.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLSupplier.cs",
+              "RelativeToolTip": "BS_layer\\BLSupplier.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:58:59.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BLUser.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLUser.cs",
+              "RelativeDocumentMoniker": "BS_layer\\BLUser.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\BS_layer\\BLUser.cs",
+              "RelativeToolTip": "BS_layer\\BLUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:58:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UCStatistics .cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCStatistics .cs",
+              "RelativeDocumentMoniker": "UI\\UCStatistics .cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCStatistics .cs",
+              "RelativeToolTip": "UI\\UCStatistics .cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:04:52.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UCSalesOrders.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCSalesOrders.cs",
+              "RelativeDocumentMoniker": "UI\\UCSalesOrders.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCSalesOrders.cs",
+              "RelativeToolTip": "UI\\UCSalesOrders.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwIsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:01:29.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UCImportOrders.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCImportOrders.cs",
+              "RelativeDocumentMoniker": "UI\\UCImportOrders.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCImportOrders.cs",
+              "RelativeToolTip": "UI\\UCImportOrders.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAADwv5oAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:02:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UCInventory.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCInventory.cs",
+              "RelativeDocumentMoniker": "UI\\UCInventory.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\UI\\UCInventory.cs",
+              "RelativeToolTip": "UI\\UCInventory.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAMwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:01:28.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dsCostProfit.xsd",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.xsd",
+              "RelativeDocumentMoniker": "dsCostProfit.xsd",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.xsd",
+              "RelativeToolTip": "dsCostProfit.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-31T08:14:46.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dsCostProfit.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.cs",
+              "RelativeDocumentMoniker": "dsCostProfit.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.cs",
+              "RelativeToolTip": "dsCostProfit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:02:06.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dsCostProfit.Designer.cs",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.Designer.cs",
+              "RelativeDocumentMoniker": "dsCostProfit.Designer.cs",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.Designer.cs",
+              "RelativeToolTip": "dsCostProfit.Designer.cs",
+              "ViewState": "AgIAAGMHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:02:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dsCostProfit.xsc",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.xsc",
+              "RelativeDocumentMoniker": "dsCostProfit.xsc",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.xsc",
+              "RelativeToolTip": "dsCostProfit.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-05-31T09:03:03.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "rptCostAndProfit.rdlc [Design]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\rptCostAndProfit.rdlc",
+              "RelativeDocumentMoniker": "rptCostAndProfit.rdlc",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\rptCostAndProfit.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\rptCostAndProfit.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-31T08:36:40.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dsCostProfit.xss",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.xss",
+              "RelativeDocumentMoniker": "dsCostProfit.xss",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\dsCostProfit.xss",
+              "RelativeToolTip": "dsCostProfit.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVDhPhZRPSytnFMafyUwqDQnEqMSKmXpjx7RIQhO4WhRisd1F10VcGcldtCIY0H4BQbsRP4Gu3DQKVtzUTcCQYFSqjVjQufHepBFM7sTgzCRjJzOZLoppJqn2B\u002B/iPec5z3l5/wH/w\u002BTkJF0ul78vl8sxURRLoijWmsZ7URQ3Y7FYAJqmEc0GjYRCodHZ2dnvLBbLRDqd7jg\u002BPv64UChQjRq32/2X2\u002B0Wurq63nIc9/OzhqFQ6KOpqakfent7566url91dXYhn89DLIs6XbfdDoIgoKhKZXR09FrXrZFAIGD0eDy92Wz2VaFQgM/rg8vlapYBAP64vETmbdYE4EtDc/KJXC5XK5VKtWpVQbHIIZ8voFQqged53eA4Dh\u002B4D\u002BB5HgDw7AoXFxclnuerQ0NDiEajYK9ZuFyfw9pu1enev3uHdDpdj\u002Bv2cHx8/NtwOPzj09zpdPZbrda\u002BVCqFjY0NqKoKijI2lkCSKpAkCU6nE2tra/oVdnd3f\u002BLz\u002Bb7Z39\u002BHoijIZrOgaRoejwe1Wg339/eN8v\u002BkZQ8FQcDu7i4ikQgikQgSiUSz5EVaDA0GA2w2GyiKgslkgtlsbpa8SIuh3W7HysoKBgYGEAgEEAwGmyUvQgHA8vLyT/39/Z85HA6aJEnYbDYYjUaYTCZYLBbIsoz5\u002BXnIsoxEIoFoNKozIUkSRuM/h0UBgN/v/5ogiNcsy4JlWQBAPp9HKpWCpmn1wpGREdA0XZ8DQHt7O2iahtfrLQO4JADg8PAweXJy8joej7cUAEC1WgXLslhaWoIsyzg4OKjnenp6HgcHB\u002B9pmr7KZDIRymw2WwwGgwEAvF4vwuEwAKBSqVRIkiTb2traisViPT42Nga/369omiZJkqTVarUcgMPz8/NfJiYmfqVisVjS4XB8mkwm610BYGFhYW54ePirYDD4RpcAoGnabw8PD3MzMzPlTCYjA6g8Pj7yAEC5XK4vtra2tLOzM6iqis3NTUxPTyOXy/3JMMwAy7LY3t6GIAjY29uDoijo6OgQV1dXfz86OqoKgqBrZgCA09NT3N7e4u7uDslkEqqq1gUcxyEej0OWZVxcXODm5gaFQkHb2dlpMcOTocPhAMMwYBgGfX19IIh/n7jZbK7nGIZBZ2dnY30LFACEw\u002BFnP1qPx0Osr6/rYs33sJG/AYSnjqm2fnOXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-31T09:03:06.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Supermarket - EF\\Supermarket - EF\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-31T07:29:50.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SupermarketDB.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Supermarket - EF\\Supermarket - EF\\DB_layer\\SupermarketDB.edmx",
+              "RelativeDocumentMoniker": "DB_layer\\SupermarketDB.edmx",
+              "ToolTip": "D:\\Supermarket - ADO\\Supermarket - ADO\\DB_layer\\SupermarketDB.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\Supermarket - ADO\\Supermarket - ADO\\DB_layer\\SupermarketDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-29T15:28:07.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
